@@ -12,6 +12,7 @@ Tujuan/pertanyaan yang perlu dijawab:
 - Dua iklan mana yang menyumbang profit terbanyak pada bulan tersebut?
 - Bagaimana kinerja iklan tersebut dalam aspek Brand Awareness?
 - Bagaimana kinerja iklan tersebut dalam aspek Trends Generated?
+
 Dengan menjawab pertanyaan-pertanyaan tersebut, perusahaan bisa menggunakan budget marketingnya dengan lebih efektif.
 
 ## 2. Dataset dan Tools
