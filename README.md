@@ -1,6 +1,8 @@
 # Business Analytics: Marketing Analytics
 
-## 1. Intro, Background, Rumusan Masalah, dan Tujuan
+Analisis dan penjelasan lengkap: https://kristalinaks.medium.com/business-analytics-marketing-analytics-d0d7e2b99523
+
+## 1. Intro
 Sebuah perusahaan Shopping Mall menjalankan beberapa macam iklan pada Juli-November 2021. Perusahaan ingin menghemat budget marketing tanpa menurunkan performa iklan, sehingga perusahaan harus lebih bijak lagi dalam memasang iklan. \
 Perusahaan ingin mengetahui apakah campaign yang dilakukan selama ini menguntungkan dan jenis iklan mana yang memiliki kinerja terbaik.
 
